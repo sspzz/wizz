@@ -1,6 +1,6 @@
 # 🧙🏼‍♂️ Wizz, a FRWC artwork fetcher
 
-Wizz is a bash script to simplify the process of downloading artwork for any given character from Forgotten Runes Wizard Cult - <https://forogttenrunes.com>. The artwork bundles contain, at the time of this writing, the original artwork for the NFT as well as complete turnarounds.
+Wizz is a bash script to simplify the process of downloading artwork for any given character from Forgotten Runes Wizard Cult - <https://forgottenrunes.com>. The artwork bundles contain, at the time of this writing, the original artwork for the NFT as well as complete turnarounds.
 
 ### 🔮 Usage
 
