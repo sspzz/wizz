@@ -8,4 +8,4 @@ The script is simple to use; Either supply a list of wizard IDs as arguments, or
 
 For example `$ ./wizz.sh 8679` will download and extract the artwork for wizard numer 8670, aka. Sorcerer Ilyas of the Fey, to the current working directory.
 
-![Sorcerer Ilyas of the Fey](docs/img/wizz2.png)
+https://user-images.githubusercontent.com/91800037/135733678-4973eef9-2a9b-41c2-acbe-11753227bf70.mov
